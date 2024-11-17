@@ -65,14 +65,14 @@ This Streamlit application provides a comparative analysis of different language
 
 ## Screenshots
 
-1. **Main Interface**:
-   <img src="assets/front-face.png" alt="Alt text" title="Optional title" width="300">
+1. **Main Interface**:<br>
+   <img src="assets/front-face.png" alt="Alt text" title="Optional title" width="480">
 
-2. **Model Outputs**:
-   <img src="assets/result_comparison.png" alt="Alt text" title="Optional title" width="300">
+2. **Model Outputs**:<br>
+   <img src="assets/result_comparison.png" alt="Alt text" title="Optional title" width="480">
 
-3. **Judgment Score**:
-   <img src="assets/gemini_critics.png" alt="Alt text" title="Optional title" width="300">
+3. **Judgment Score**:<br>
+   <img src="assets/gemini_critics.png" alt="Alt text" title="Optional title" width="480">
 
 ---
 
